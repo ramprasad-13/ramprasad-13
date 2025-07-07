@@ -4,11 +4,13 @@
 
 ### 👨‍💻 About Me
 - 🧑‍💼 Currently **searching for a full-time role** as a Software Engineer  
-- 👨‍💻 Freelancing at [RunWeb.in](https://runweb.in), offering web solutions like SEO, hosting, custom dashboards, social media campaigns & more
-- 💡 Passionate about Full Stack Development, AI, and Cybersecurity
-- 🌱 Continuously learning cloud-native deployment, Docker, and advanced backend strategies
-- 🤝 I love connecting with people who share the same mindset — [Connect with me on LinkedIn](https://linkedin.com/in/ram0)
-- 📫 Reach me at: **padevenkataramprasad@gmail.com**
+- 👨‍💻 Freelancing at [RunWeb.in](https://runweb.in), offering web services like SEO, hosting, dashboards, custom websites, social media campaigns & more  
+- 💡 Passionate about Full Stack Development, AI, and Cybersecurity  
+- 🌱 Learning cloud-native deployment, Docker, and backend scalability  
+- 🌐 Portfolio: [ramprasad-13.github.io/portfolio](https://ramprasad-13.github.io/portfolio)  
+- 🧠 LeetCode: [leetcode.com/u/Ramprasad13](https://leetcode.com/u/Ramprasad13)  
+- 🤝 Connect on [LinkedIn](https://linkedin.com/in/ram0)  
+- 📫 Email: **padevenkataramprasad@gmail.com**
 
 ---
 
